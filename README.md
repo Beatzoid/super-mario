@@ -4,7 +4,7 @@ Super Mario made using Typescript
 
 # Demo
 
-Soon
+[Here](https://beat-super-mario.vercel.app/)
 
 # Credit
 
