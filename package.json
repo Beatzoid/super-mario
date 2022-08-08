@@ -1,0 +1,24 @@
+{
+    "name": "super-mario",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": " live-server ./public --PORT=5000",
+        "watch": "tsc --watch",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "live-server": "^1.2.2"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.32.0",
+        "@typescript-eslint/parser": "^5.32.0",
+        "eslint": "^8.21.0",
+        "typescript": "^4.7.4"
+    },
+    "packageManager": "yarn@3.2.2"
+}
