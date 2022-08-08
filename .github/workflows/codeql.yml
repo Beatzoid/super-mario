@@ -2,9 +2,9 @@ name: "Code Scanning - Action"
 
 on:
     push:
-        branches: [main]
+        branches: [master]
     pull_request:
-        branches: [main]
+        branches: [master]
     schedule:
         # Every 2 days at 12
         - cron: "0 12 * * 0/2"
